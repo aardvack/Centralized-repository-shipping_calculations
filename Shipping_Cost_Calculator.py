@@ -1,5 +1,4 @@
-# Aquí hay una nueva actualización por aardvack
-# Here is another update by aardvack
+ # Aquí hay una nueva actualización por aardvack
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
